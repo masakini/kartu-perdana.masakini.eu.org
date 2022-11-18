@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: / 
+Sitemap: https://perdana.masakini.eu.org/sitemap.xml 
